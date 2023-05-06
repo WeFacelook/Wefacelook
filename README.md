@@ -14,7 +14,7 @@ Weapp is an application that allows Facebook users to access their timeline, mes
 
 ### WeFacelook Social Blockchain Platform
 
-The Facelook social blockchain platform is an open-source platform based on the Ethereum blockchain. Users can use the platform to upload images of their outfits to a virtual closet and categorize them appropriately, with transactions stored on a blockchain. The platform offers the following features:
+The WeFacelook social blockchain platform is an open-source platform based on the Ethereum blockchain. Users can use the platform to upload images of their outfits to a virtual closet and categorize them appropriately, with transactions stored on a blockchain. The platform offers the following features:
 
 - Ability to create and share content (photos and videos) related to outfits and fashion trends, with the ability to comment or appreciate other users’ outfits.
 - User interaction system, through which users can follow other users and receive notifications about new outfits published, with interactions stored on a blockchain.
