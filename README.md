@@ -38,13 +38,13 @@ To develop and use the WeFacelook project, the following requirements are needed
 The roadmap for developing the WeFacelook project is as follows:
 
 
-1 Q3 2023: Launch of the official WeFacelook website
-2 Q1 2024: Launch of the beta version of the Facelook Social Blockchain Platform
-3 Q2 2024: Launch of the official version of the Facelook Social Blockchain Platform
-4 Q3 2023: Launch of the beta version of Weapp
-5 Q4 2023: Launch of the official version of Weapp
-6 Q3 2023: Launch of the beta version of the WeFacelook Token
-7 Q3 2024: Launch of the official version of the WeFacelook Token
+1 Q3 2023: Launch of the official WeFacelook website.
+2 Q1 2024: Launch of the beta version of the Facelook Social Blockchain Platform.
+3 Q2 2024: Launch of the official version of the Facelook Social Blockchain Platform.
+4 Q3 2023: Launch of the beta version of Weapp.
+5 Q4 2023: Launch of the official version of Weapp.
+6 Q3 2023: Launch of the beta version of the WeFacelook Token.
+7 Q3 2024: Launch of the official version of the WeFacelook Token.
 
 ## Contributing
 
