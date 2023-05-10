@@ -16,13 +16,79 @@ Weapp is an application that allows users to access their Facebook profiles usin
 ### WeFacelook Social Blockchain Platform
 The WeFacelook social blockchain platform is an open-source platform based on the Ethereum blockchain. Users can use the platform to upload images of their outfits to a virtual closet and categorize them appropriately, with transactions stored on a blockchain. The platform offers the following features:
 
-- Create and share content (photos and videos) related to outfits and fashion trends, with the ability to comment on or appreciate other users' outfits.
-- User interaction system, through which users can follow other users and receive notifications about new outfits published, with interactions stored on a blockchain.
-- Advanced search function to find specific outfits based on categories, tags, or other criteria, using blockchain-based search algorithms.
+
+# WeFacelook Social Blockchain Platform
+
+The WeFacelook social blockchain platform is an open-source platform based on the Ethereum blockchain. Users can use the platform to upload images of their outfits to a virtual closet and categorize them appropriately, with transactions stored on a blockchain. The platform offers the following features:
+
+## Outfit Creation and Sharing
+- Create and share content (photos and videos) related to outfits and fashion trends.
+- Comment on or appreciate other users' outfits.
+
+## User Interaction System
+- Follow other users and receive notifications about new outfits published, with interactions stored on a blockchain.
+
+## Advanced Search Function
+- Find specific outfits based on categories, tags, or other criteria, using blockchain-based search algorithms.
+
+## Buying and Selling Clothing
 - Ability to buy or sell clothing through the platform, with an integrated payment system based on blockchain technology.
-- Connection with other existing social networks, like Facebook or Instagram, to facilitate sharing of outfits and content.
-- Development of machine learning and AI techniques to analyze user data and suggest related outfits and products.
-- Implementation of an internal messaging function to enable users to communicate with each other within the platform.
+
+## Virtual Closet and Personalized Suggestions
+### Virtual Closet
+- Users can create a virtual closet with their outfits.
+### Personalized Suggestions
+- Receive personalized outfit suggestions based on style, season, and weather conditions.
+
+## Connection with Existing Social Networks
+- Connect with Facebook or Instagram to facilitate sharing of outfits and content.
+
+## Machine Learning and AI Techniques
+- Analyze user data to suggest related outfits and products based on personal style and preferences.
+
+## Internal Messaging Function
+- Enable users to communicate with each other within the platform.
+
+## Additional Features
+
+### Profile Customization
+- Allow users to customize their profile, including profile pictures, personal descriptions, and backgrounds.
+
+### Groups and Communities
+- Implement the ability to create and join fashion groups or communities to find others with similar interests and share ideas about trends and styles.
+
+### Contests and Challenges
+- Organize fashion contests or challenges to encourage users to participate and interact with others.
+
+### Product Tagging
+- Introduce the ability for users to tag products in their photos with brand information, price, and a purchasing link.
+
+### Reviews and Ratings
+- Allow users to leave reviews and ratings for products and sellers within the platform.
+
+### Multilingual Support
+- Add support for multiple languages to expand the platform's reach and make it more accessible to users worldwide.
+
+### Mobile Access
+- Ensure the platform is optimized for mobile devices and develop a dedicated mobile app.
+
+### Virtual Closet Organization
+- Allow users to organize their virtual closet based on various criteria, such as type of garment, color, brand, occasion, and season.
+
+### Style-Based Suggestions
+- Use machine learning algorithms and data analysis to analyze items in users' virtual closets and their behavior on the platform, providing personalized suggestions for new garments, accessories, and styles.
+
+### Weather and Season-Based Recommendations
+- Integrate real-time weather information to provide outfit suggestions based on the weather conditions at the user's location, as well as accounting for the current season.
+
+### Lookbooks and Outfit Sets
+- Allow users to create lookbooks or outfit sets using items from their virtual closet and share these looks with other users.
+
+### Collaborations with Stylists and Influencers
+- Collaborate with fashion stylists and influencers to create exclusive content and offer personalized style advice to users.
+
+### Artificial Intelligence and Chatbots
+- Integrate an AI-based chatbot that can interact with users, providing style suggestions, advice on what to wear, and answering fashion-related questions.
 
 ## Technologies Used
 - Ethereum blockchain
