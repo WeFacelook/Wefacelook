@@ -14,7 +14,7 @@ The Wefacelook token is a non-fungible token based on the Ethereum blockchain, c
 Weapp is an application that allows users to access their Facebook profiles using blockchain as a means of authentication. Users can use their Facebook account to log in to Weapp, but the actions they take on the platform (such as sending messages or posting content) are recorded on the blockchain and are visible only to users who possess the Wefacelook token.
 
 
-# WeFacelook Social Blockchain Platform
+### WeFacelook Social Blockchain Platform
 
 The WeFacelook social blockchain platform is an open-source platform based on the Ethereum blockchain. Users can use the platform to upload images of their outfits to a virtual closet and categorize them appropriately, with transactions stored on a blockchain. The platform offers the following features:
 
