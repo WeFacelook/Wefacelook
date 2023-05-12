@@ -37,6 +37,12 @@ If you are reporting a bug, please provide the steps to reproduce the issue. Thi
 2.
 3.
 
+## Severity/Priority (if applicable)
+
+<!--
+If you are reporting a bug, please provide an estimation of the severity or priority of the issue. This will help us manage the issue more efficiently.
+-->
+
 ## Possible Solution (if applicable)
 
 <!--
